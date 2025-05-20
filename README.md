@@ -1,13 +1,21 @@
-# 👋 Hi, I'm Daniel Jung!
+<p align="center">
+  <h1>👋 Hi, I'm Daniel Jung!</h1>
 
-💻 Backend Developer | CS Student @ UBC  
-🔭 Currently working on real-time data processing, system design, and AWS deployment  
-📚 Interested in scalable backend systems & DevOps
+  💻 Backend Developer | CS Student @ UBC  
+  <br>🔭 Currently working on real-time data processing, system design, and AWS deployment  
+  <br>📚 Interested in scalable backend systems & DevOps
+</p>
 
-## 🛠 Tech Stack
-- Java, Python, TypeScript
-- Spring Boot, React, Vue.js
-- AWS, Docker, Redis, RabbitMQ
+<h2 align="center">🛠 Tech Stack</h2>
 
-## 📈 GitHub Stats
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ijjung365&show_icons=true&theme=default)
+<p align="center">
+  Java, Python, TypeScript  
+  <br>Spring Boot, React, Vue.js  
+  <br>AWS, Docker, Redis, RabbitMQ
+</p>
+
+<h2 align="center">📈 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ijjung365&show_icons=true&theme=default" />
+</p>
