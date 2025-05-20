@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Daniel Jung!
 
-<!--
-**ijjung365/ijjung365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Backend Developer | CS Student @ UBC  
+🔭 Currently working on real-time data processing, system design, and AWS deployment  
+📚 Interested in scalable backend systems & DevOps
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- Java, Python, TypeScript
+- Spring Boot, React, Vue.js
+- AWS, Docker, Redis, RabbitMQ
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ijjung365&show_icons=true&theme=default)
