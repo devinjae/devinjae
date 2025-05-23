@@ -10,7 +10,7 @@
 
 <p align="center">
   Java, Python, TypeScript  
-  <br>Spring Boot, React, Vue.js  
+  <br>Spring Boot, React, Next, Vue.js  
   <br>AWS, Docker, Redis, RabbitMQ
 </p>
 
