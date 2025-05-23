@@ -2,7 +2,7 @@
   <h1>👋 Hi, I'm Daniel Jung!</h1>
 
   💻 Backend Developer | CS Student @ UBC  
-  <br>🔭 Currently working on real-time data processing, system design, and AWS deployment  
+  <br>🔭 Interested with real-time data processing, system design, and AWS deployment  
   <br>📚 Interested in scalable backend systems & DevOps
 </p>
 
