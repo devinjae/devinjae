@@ -22,7 +22,6 @@ Spring Boot • Spring Security • Spring Batch • JPA • React.js • Vue.js
 **Infra & DevOps**  
 Docker • GitHub Actions • Redis • RabbitMQ • MySQL  
 AWS (EC2 • RDS • ECS Fargate • Lambda • EventBridge)  
-Prometheus • ELK
 
 </div>
 
