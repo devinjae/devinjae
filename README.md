@@ -31,8 +31,7 @@ AWS (EC2 • RDS • ECS Fargate • Lambda • EventBridge)
 
 ### 📍 WHERE CAR  
 <div align="center"><i>1st Place | Kernel360 Boot Camp | Mar - May 2025</i></div>
-
-
+<br>
 Fleet management system tracking 15,000+ vehicles in real-time.
 - Scaled from 2,000 → 15,000 TPS (+750%) via async, scaling, and tuning
 - Reduced DB latency by 93% using JDBC batch inserts
@@ -43,8 +42,7 @@ Fleet management system tracking 15,000+ vehicles in real-time.
 
 ### 🔍 Flaw Detector  
 <div align="center"><i>Academic Project | Aug - Sep 2024</i></div>
-
-
+<br>
 GitHub repo vulnerability scanner with LLM-based explanations.
 - Built with Next.js, Tailwind, Firebase
 - Integrated Llama 3 for contextual security feedback
@@ -54,8 +52,7 @@ GitHub repo vulnerability scanner with LLM-based explanations.
 
 ### 💻 Online Code Compiler  
 <div align="center"><i>Personal Project | Jun 2024</i></div>
-
-
+<br>
 Containerized multi-language code execution platform.
 - Supported Java, Python, C++, C#, Ruby
 - Built with Spring Boot, Vue.js, Docker
