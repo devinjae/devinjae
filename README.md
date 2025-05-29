@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Daniel Jung
 
-_Backend-Focused Software Engineer based in Vancouver, BC_  
+_Software Engineer based in Vancouver, BC_  
 💡 I build scalable systems, love learning backend internals, and enjoy working in collaborative teams.
 
 </div>
